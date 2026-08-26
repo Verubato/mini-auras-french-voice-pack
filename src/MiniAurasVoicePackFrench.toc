@@ -1,0 +1,11 @@
+## Interface: 120100
+## Title: MiniAurasVoicePackFrench
+## Notes: French voice packs for the MiniAuras alert announcements.
+## Category: Mini
+## Author: Verz
+## Version: 1.0.0
+## OptionalDeps: MiniAuras
+## IconTexture: Interface\AddOns\MiniAurasVoicePackFrench\Icon.blp
+## X-Curse-Project-ID: 1668509
+
+MiniAurasVoicePackFrench.lua
