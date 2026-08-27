@@ -1,6 +1,6 @@
 # MiniAurasVoicePackFrench - bot reference
 
-Version 1.0.0. Interface version 120100. No saved variables, no options UI,
+Version 1.0.1. Interface version 120100. No saved variables, no options UI,
 no slash commands.
 
 ## What it does
