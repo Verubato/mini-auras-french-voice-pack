@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.0.4
+
+Added sound clip for Guardian of Ancient Kings.
+
 ## 1.0.3
 
 Added WoW Forever support.
