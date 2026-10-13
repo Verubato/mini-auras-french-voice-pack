@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.0.5
+
+Updated for patch 12.1.5.
+
 ## 1.0.4
 
 Added sound clip for Guardian of Ancient Kings.
